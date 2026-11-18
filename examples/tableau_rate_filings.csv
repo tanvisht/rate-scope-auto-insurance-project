@@ -1,0 +1,132 @@
+serff_tracking_number,canonical_name,state,state_name,filing_type,effective_date,effective_year,rate_change_pct,indicated_change_pct,impact_min_pct,impact_max_pct
+SUMM-13000003,Summit Mutual Insurance Co,TX,Texas,Form/Rate/Rule,2021-01-01,2021,3.2,,,
+SUMM-13000006,Summit Mutual Insurance Co,TX,Texas,Form/Rate/Rule,2023-11-01,2023,4.7,6.6,0.4,10.2
+SUMM-13000008,Summit Mutual Insurance Co,TX,Texas,Rate/Rule,2025-02-01,2025,10.1,,,
+SUMM-13000013,Summit Mutual Insurance Co,FL,Florida,Form/Rate/Rule,2023-10-01,2023,7.6,10.6,4.2,12.2
+SUMM-13000014,Summit Mutual Insurance Co,FL,Florida,Rate/Rule,2024-10-01,2024,11.7,,4.3,18.4
+SUMM-13000016,Summit Mutual Insurance Co,NY,New York,Form/Rate/Rule,2022-11-01,2022,6.3,,-0.6,16.3
+SUMM-13000017,Summit Mutual Insurance Co,NY,New York,Rate,2023-04-01,2023,4.1,,1.5,7.8
+SUMM-13000018,Summit Mutual Insurance Co,NY,New York,Rate,2024-07-01,2024,6.2,8.7,2.0,13.1
+SUMM-13000019,Summit Mutual Insurance Co,IL,Illinois,Rate,2021-09-01,2021,-0.1,,,
+SUMM-13000020,Summit Mutual Insurance Co,IL,Illinois,Rate,2024-04-01,2024,3.2,4.5,-2.8,16.0
+SUMM-13000024,Summit Mutual Insurance Co,GA,Georgia,Form/Rate/Rule,2023-09-01,2023,15.0,,3.2,24.2
+SUMM-13000025,Summit Mutual Insurance Co,GA,Georgia,Rate/Rule,2023-08-01,2023,6.1,,,
+KEYC-13000028,Keystone Commercial Casualty,CA,California,Form/Rate/Rule,2021-04-01,2021,-2.3,-3.2,-6.4,3.5
+KEYC-13000030,Keystone Commercial Casualty,CA,California,Rate/Rule,2023-09-01,2023,9.1,12.7,4.4,18.4
+KEYC-13000031,Keystone Commercial Casualty,CA,California,Form/Rate/Rule,2024-06-01,2024,7.5,10.5,1.2,20.2
+KEYC-13000033,Keystone Commercial Casualty,CA,California,Rate/Rule,2025-08-01,2025,9.6,,,
+KEYC-13000034,Keystone Commercial Casualty,TX,Texas,Rate/Rule,2021-04-01,2021,8.6,12.0,-0.8,16.1
+KEYC-13000037,Keystone Commercial Casualty,TX,Texas,Form/Rate/Rule,2024-05-01,2024,-5.8,,-11.7,-0.3
+KEYC-13000038,Keystone Commercial Casualty,TX,Texas,Form/Rate/Rule,2024-04-01,2024,-3.3,,,
+KEYC-13000040,Keystone Commercial Casualty,TX,Texas,Rate/Rule,2025-07-01,2025,4.5,,,
+KEYC-13000042,Keystone Commercial Casualty,FL,Florida,Rate/Rule,2024-02-01,2024,1.5,,-5.1,13.1
+KEYC-13000043,Keystone Commercial Casualty,FL,Florida,Form/Rate/Rule,2025-05-01,2025,-3.1,,-8.8,1.7
+KEYC-13000045,Keystone Commercial Casualty,NY,New York,Rate/Rule,2023-07-01,2023,20.0,28.0,8.2,24.5
+KEYC-13000046,Keystone Commercial Casualty,NY,New York,Rate,2024-08-01,2024,16.7,23.4,12.7,24.0
+KEYC-13000051,Keystone Commercial Casualty,IL,Illinois,Rate/Rule,2023-06-01,2023,4.0,5.6,-4.4,12.8
+KEYC-13000054,Keystone Commercial Casualty,GA,Georgia,Rate/Rule,2021-10-01,2021,1.2,,,
+KEYC-13000055,Keystone Commercial Casualty,GA,Georgia,Form/Rate/Rule,2023-12-01,2023,-2.3,,,
+KEYC-13000056,Keystone Commercial Casualty,GA,Georgia,Rate/Rule,2024-04-01,2024,3.2,,-5.4,12.9
+KEYC-13000057,Keystone Commercial Casualty,GA,Georgia,Rate,2025-12-01,2025,6.2,,,
+PION-13000059,Pioneer Fleet Assurance,CA,California,Rate/Rule,2021-08-01,2021,8.6,12.0,1.1,22.1
+PION-13000061,Pioneer Fleet Assurance,CA,California,Form/Rate/Rule,2023-01-01,2023,4.9,6.9,0.9,13.0
+PION-13000071,Pioneer Fleet Assurance,FL,Florida,Form/Rate/Rule,2024-05-01,2024,9.3,,6.1,10.4
+PION-13000072,Pioneer Fleet Assurance,FL,Florida,Rate/Rule,2025-06-01,2025,7.0,,,
+PION-13000074,Pioneer Fleet Assurance,NY,New York,Rate/Rule,2022-05-01,2022,7.3,,,
+PION-13000075,Pioneer Fleet Assurance,NY,New York,Form/Rate/Rule,2022-09-01,2022,2.2,,,
+PION-13000076,Pioneer Fleet Assurance,NY,New York,Form/Rate/Rule,2023-04-01,2023,10.1,,,
+PION-13000080,Pioneer Fleet Assurance,IL,Illinois,Rate/Rule,2021-10-01,2021,-4.4,,-12.3,1.8
+PION-13000081,Pioneer Fleet Assurance,IL,Illinois,Rate/Rule,2022-03-01,2022,1.4,,-5.5,8.8
+PION-13000082,Pioneer Fleet Assurance,IL,Illinois,Form/Rate/Rule,2025-12-01,2025,8.5,,,
+PION-13000086,Pioneer Fleet Assurance,GA,Georgia,Rate,2024-06-01,2024,4.4,,-2.3,11.2
+HARB-13000092,Harbor State Indemnity,TX,Texas,Rate/Rule,2022-01-01,2022,-12.0,,-18.9,-8.7
+HARB-13000093,Harbor State Indemnity,TX,Texas,Rate/Rule,2022-07-01,2022,-11.2,,,
+HARB-13000095,Harbor State Indemnity,TX,Texas,Rate/Rule,2023-06-01,2023,2.7,3.8,-1.4,8.0
+HARB-13000100,Harbor State Indemnity,FL,Florida,Rate/Rule,2022-01-01,2022,-0.1,,,
+HARB-13000103,Harbor State Indemnity,FL,Florida,Form/Rate/Rule,2024-07-01,2024,-2.9,-4.1,-6.4,2.4
+HARB-13000104,Harbor State Indemnity,FL,Florida,Rate/Rule,2025-09-01,2025,2.1,,,
+HARB-13000105,Harbor State Indemnity,NY,New York,Form/Rate/Rule,2021-10-01,2021,2.8,3.9,-0.3,10.6
+HARB-13000109,Harbor State Indemnity,NY,New York,Rate,2023-01-01,2023,3.8,5.3,0.2,9.3
+HARB-13000110,Harbor State Indemnity,NY,New York,Rate,2024-01-01,2024,-12.2,-17.1,-18.7,1.3
+HARB-13000112,Harbor State Indemnity,NY,New York,Rate,2025-03-01,2025,-6.2,,,
+HARB-13000117,Harbor State Indemnity,IL,Illinois,Form/Rate/Rule,2025-06-01,2025,4.7,6.6,-0.5,16.8
+HARB-13000121,Harbor State Indemnity,GA,Georgia,Rate/Rule,2024-05-01,2024,-8.8,,,
+HARB-13000122,Harbor State Indemnity,GA,Georgia,Form/Rate/Rule,2024-12-01,2024,1.9,2.7,-3.8,14.9
+GRAN-13000126,Granite Transport Insurance,CA,California,Rate/Rule,2021-05-01,2021,-4.9,,,
+GRAN-13000127,Granite Transport Insurance,CA,California,Rate,2023-10-01,2023,9.3,,,
+GRAN-13000128,Granite Transport Insurance,CA,California,Rate/Rule,2023-01-01,2023,1.7,,,
+GRAN-13000129,Granite Transport Insurance,CA,California,Form/Rate/Rule,2024-04-01,2024,4.3,6.0,-0.7,14.7
+GRAN-13000132,Granite Transport Insurance,TX,Texas,Rate/Rule,2023-11-01,2023,-1.0,-1.4,-9.1,4.1
+GRAN-13000137,Granite Transport Insurance,FL,Florida,Rate,2023-12-01,2023,8.3,,2.2,17.9
+GRAN-13000138,Granite Transport Insurance,FL,Florida,Form/Rate/Rule,2024-10-01,2024,12.7,,,
+GRAN-13000139,Granite Transport Insurance,FL,Florida,Form/Rate/Rule,2025-11-01,2025,15.5,,,
+GRAN-13000140,Granite Transport Insurance,NY,New York,Form/Rate/Rule,2021-08-01,2021,5.9,,0.6,11.2
+GRAN-13000141,Granite Transport Insurance,NY,New York,Rate/Rule,2022-02-01,2022,5.0,,,
+GRAN-13000146,Granite Transport Insurance,IL,Illinois,Rate/Rule,2021-09-01,2021,5.2,7.3,-0.9,9.3
+GRAN-13000147,Granite Transport Insurance,IL,Illinois,Form/Rate/Rule,2021-05-01,2021,3.9,,,
+GRAN-13000148,Granite Transport Insurance,IL,Illinois,Rate/Rule,2022-12-01,2022,6.3,,0.2,13.7
+GRAN-13000150,Granite Transport Insurance,IL,Illinois,Rate,2024-03-01,2024,6.4,,,
+GRAN-13000151,Granite Transport Insurance,GA,Georgia,Rate/Rule,2021-01-01,2021,3.9,,,
+GRAN-13000152,Granite Transport Insurance,GA,Georgia,Rate/Rule,2022-02-01,2022,2.7,,,
+GRAN-13000154,Granite Transport Insurance,GA,Georgia,Form/Rate/Rule,2023-08-01,2023,-0.1,,-6.6,4.5
+GRAN-13000155,Granite Transport Insurance,GA,Georgia,Rate,2023-11-01,2023,-2.3,,,
+LIBR-13000159,Liberty Ridge Casualty Co,CA,California,Form/Rate/Rule,2021-01-01,2021,0.5,,-9.0,8.2
+LIBR-13000162,Liberty Ridge Casualty Co,CA,California,Rate/Rule,2025-06-01,2025,5.7,8.0,-1.6,10.8
+LIBR-13000165,Liberty Ridge Casualty Co,TX,Texas,Rate/Rule,2022-11-01,2022,4.8,,,
+LIBR-13000167,Liberty Ridge Casualty Co,TX,Texas,Rate/Rule,2024-03-01,2024,1.1,,-2.7,10.0
+LIBR-13000168,Liberty Ridge Casualty Co,TX,Texas,Form/Rate/Rule,2024-02-01,2024,8.3,,,
+LIBR-13000169,Liberty Ridge Casualty Co,FL,Florida,Rate/Rule,2021-02-01,2021,5.3,,,
+LIBR-13000170,Liberty Ridge Casualty Co,FL,Florida,Rate,2022-10-01,2022,4.3,,-1.9,11.9
+LIBR-13000171,Liberty Ridge Casualty Co,FL,Florida,Rate/Rule,2022-04-01,2022,7.9,,,
+LIBR-13000173,Liberty Ridge Casualty Co,FL,Florida,Rate/Rule,2024-12-01,2024,3.9,5.5,-4.1,15.4
+LIBR-13000174,Liberty Ridge Casualty Co,FL,Florida,Rate/Rule,2024-05-01,2024,10.0,14.0,2.9,22.1
+LIBR-13000175,Liberty Ridge Casualty Co,FL,Florida,Rate,2025-06-01,2025,5.2,,,
+LIBR-13000176,Liberty Ridge Casualty Co,NY,New York,Form/Rate/Rule,2021-03-01,2021,9.7,13.6,3.5,17.7
+LIBR-13000177,Liberty Ridge Casualty Co,NY,New York,Rate,2022-08-01,2022,15.7,22.0,9.1,25.5
+LIBR-13000180,Liberty Ridge Casualty Co,NY,New York,Form/Rate/Rule,2024-04-01,2024,11.5,,11.4,20.6
+LIBR-13000181,Liberty Ridge Casualty Co,NY,New York,Rate,2024-10-01,2024,-0.5,-0.7,-3.1,8.9
+LIBR-13000182,Liberty Ridge Casualty Co,NY,New York,Form/Rate/Rule,2025-11-01,2025,10.1,,1.4,16.6
+LIBR-13000183,Liberty Ridge Casualty Co,IL,Illinois,Rate/Rule,2021-01-01,2021,4.0,5.6,0.0,11.7
+LIBR-13000186,Liberty Ridge Casualty Co,IL,Illinois,Rate,2024-07-01,2024,10.8,,,
+LIBR-13000188,Liberty Ridge Casualty Co,GA,Georgia,Rate,2021-06-01,2021,5.0,,0.0,15.6
+LIBR-13000190,Liberty Ridge Casualty Co,GA,Georgia,Rate/Rule,2024-09-01,2024,10.9,,6.4,17.7
+MERI-13000193,Meridian Auto Underwriters,CA,California,Rate/Rule,2022-10-01,2022,-3.8,,-11.0,5.2
+MERI-13000194,Meridian Auto Underwriters,CA,California,Rate/Rule,2022-12-01,2022,-1.8,-2.5,-8.6,8.0
+MERI-13000198,Meridian Auto Underwriters,TX,Texas,Rate/Rule,2021-03-01,2021,3.7,,,
+MERI-13000199,Meridian Auto Underwriters,TX,Texas,Rate/Rule,2022-06-01,2022,3.9,5.5,-3.0,8.2
+MERI-13000200,Meridian Auto Underwriters,TX,Texas,Rate,2023-08-01,2023,13.4,18.8,10.2,25.8
+MERI-13000202,Meridian Auto Underwriters,TX,Texas,Rate,2025-10-01,2025,11.1,,,
+MERI-13000203,Meridian Auto Underwriters,FL,Florida,Rate,2021-02-01,2021,6.5,,,
+MERI-13000207,Meridian Auto Underwriters,FL,Florida,Rate/Rule,2025-03-01,2025,6.9,,0.9,17.3
+MERI-13000208,Meridian Auto Underwriters,FL,Florida,Rate,2025-10-01,2025,9.2,,4.5,20.9
+MERI-13000210,Meridian Auto Underwriters,NY,New York,Rate/Rule,2024-05-01,2024,20.9,,,
+MERI-13000211,Meridian Auto Underwriters,NY,New York,Rate/Rule,2025-03-01,2025,17.2,24.1,11.0,28.6
+MERI-13000212,Meridian Auto Underwriters,IL,Illinois,Rate,2021-02-01,2021,6.7,9.4,2.2,14.0
+MERI-13000215,Meridian Auto Underwriters,IL,Illinois,Form/Rate/Rule,2025-03-01,2025,11.0,15.4,5.0,24.2
+MERI-13000216,Meridian Auto Underwriters,IL,Illinois,Rate/Rule,2025-10-01,2025,4.4,6.2,2.4,10.8
+MERI-13000218,Meridian Auto Underwriters,GA,Georgia,Rate/Rule,2022-04-01,2022,8.6,,,
+MERI-13000220,Meridian Auto Underwriters,GA,Georgia,Form/Rate/Rule,2023-01-01,2023,12.9,,,
+MERI-13000221,Meridian Auto Underwriters,GA,Georgia,Rate/Rule,2025-02-01,2025,11.6,,,
+NORT-13000224,Northstar Commercial Ins Co,CA,California,Rate/Rule,2023-03-01,2023,3.7,,-3.0,13.5
+NORT-13000226,Northstar Commercial Ins Co,CA,California,Form/Rate/Rule,2024-03-01,2024,11.3,,,
+NORT-13000227,Northstar Commercial Ins Co,CA,California,Rate/Rule,2025-08-01,2025,2.8,,,
+NORT-13000228,Northstar Commercial Ins Co,CA,California,Form/Rate/Rule,2025-10-01,2025,7.3,,1.5,13.3
+NORT-13000229,Northstar Commercial Ins Co,TX,Texas,Rate/Rule,2021-06-01,2021,2.2,,-5.6,8.7
+NORT-13000232,Northstar Commercial Ins Co,TX,Texas,Rate/Rule,2023-02-01,2023,-2.4,,,
+NORT-13000234,Northstar Commercial Ins Co,TX,Texas,Rate,2025-01-01,2025,-10.4,-14.6,-16.6,-1.4
+NORT-13000237,Northstar Commercial Ins Co,FL,Florida,Form/Rate/Rule,2022-11-01,2022,8.8,,3.1,12.1
+NORT-13000238,Northstar Commercial Ins Co,FL,Florida,Form/Rate/Rule,2022-11-01,2022,17.1,23.9,8.1,22.7
+NORT-13000242,Northstar Commercial Ins Co,FL,Florida,Rate,2025-09-01,2025,25.2,,,
+NORT-13000243,Northstar Commercial Ins Co,NY,New York,Form/Rate/Rule,2021-10-01,2021,2.6,3.6,-2.2,15.5
+NORT-13000245,Northstar Commercial Ins Co,NY,New York,Rate/Rule,2022-05-01,2022,7.0,9.8,0.9,15.8
+NORT-13000246,Northstar Commercial Ins Co,NY,New York,Form/Rate/Rule,2024-07-01,2024,-3.6,,,
+NORT-13000249,Northstar Commercial Ins Co,IL,Illinois,Rate/Rule,2021-07-01,2021,-6.0,,-7.0,-1.0
+NORT-13000251,Northstar Commercial Ins Co,IL,Illinois,Rate,2023-08-01,2023,3.8,,,
+NORT-13000252,Northstar Commercial Ins Co,IL,Illinois,Rate/Rule,2024-11-01,2024,4.5,,,
+NORT-13000253,Northstar Commercial Ins Co,IL,Illinois,Form/Rate/Rule,2024-11-01,2024,0.9,1.3,-2.0,9.6
+NORT-13000254,Northstar Commercial Ins Co,IL,Illinois,Rate/Rule,2025-11-01,2025,-1.8,,,
+NORT-13000255,Northstar Commercial Ins Co,GA,Georgia,Rate/Rule,2021-06-01,2021,1.3,,,
+NORT-13000257,Northstar Commercial Ins Co,GA,Georgia,Rate/Rule,2022-07-01,2022,4.9,6.9,0.0,9.8
+NORT-13000258,Northstar Commercial Ins Co,GA,Georgia,Form/Rate/Rule,2023-03-01,2023,-0.1,,-7.9,7.6
+NORT-13000259,Northstar Commercial Ins Co,GA,Georgia,Rate/Rule,2024-07-01,2024,6.0,,,
+NORT-13000260,Northstar Commercial Ins Co,GA,Georgia,Rate,2025-04-01,2025,8.5,11.9,3.3,15.7

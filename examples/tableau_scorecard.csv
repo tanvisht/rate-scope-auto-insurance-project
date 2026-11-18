@@ -1,0 +1,49 @@
+canonical_name,state,loss_ratio_5yr,avg_market_share,rate_filings,cumulative_rate_change_pct,coverages_filed
+Granite Transport Insurance,CA,0.6833,0.1163,4,10.26,8
+Granite Transport Insurance,FL,0.7105,0.1097,3,40.97,9
+Granite Transport Insurance,GA,0.5452,0.1376,4,4.15,10
+Granite Transport Insurance,IL,0.7,0.1658,4,23.62,10
+Granite Transport Insurance,NY,0.7691,0.1979,2,11.2,9
+Granite Transport Insurance,TX,0.5581,0.1956,1,-1.0,9
+Harbor State Indemnity,CA,0.8412,0.1315,0,,8
+Harbor State Indemnity,FL,0.5994,0.2516,3,-0.96,9
+Harbor State Indemnity,GA,0.5279,0.0665,2,-7.07,9
+Harbor State Indemnity,IL,0.6589,0.2128,1,4.7,10
+Harbor State Indemnity,NY,0.4875,0.0624,4,-12.12,10
+Harbor State Indemnity,TX,0.5869,0.1306,3,-19.75,10
+Keystone Commercial Casualty,CA,0.7394,0.0392,4,25.59,10
+Keystone Commercial Casualty,FL,0.6095,0.0982,2,-1.65,9
+Keystone Commercial Casualty,GA,0.6572,0.1437,4,8.36,9
+Keystone Commercial Casualty,IL,0.7491,0.0387,1,4.0,8
+Keystone Commercial Casualty,NY,0.779,0.2017,2,40.04,10
+Keystone Commercial Casualty,TX,0.6005,0.1573,4,3.38,10
+Liberty Ridge Casualty Co,CA,0.6927,0.1742,2,6.23,10
+Liberty Ridge Casualty Co,FL,0.6443,0.1614,6,42.48,10
+Liberty Ridge Casualty Co,GA,0.73,0.1825,2,16.45,10
+Liberty Ridge Casualty Co,IL,0.6699,0.1726,2,15.23,8
+Liberty Ridge Casualty Co,NY,0.7648,0.1296,5,55.03,10
+Liberty Ridge Casualty Co,TX,0.6445,0.0385,3,14.75,10
+Meridian Auto Underwriters,CA,0.4673,0.1586,2,-5.53,9
+Meridian Auto Underwriters,FL,0.6908,0.1105,3,24.32,10
+Meridian Auto Underwriters,GA,0.7775,0.1644,3,36.83,10
+Meridian Auto Underwriters,IL,0.682,0.0622,3,23.65,9
+Meridian Auto Underwriters,NY,0.7836,0.0425,2,41.69,6
+Meridian Auto Underwriters,TX,0.6496,0.1323,4,35.74,9
+Northstar Commercial Ins Co,CA,0.6318,0.1673,4,27.31,9
+Northstar Commercial Ins Co,FL,0.8689,0.0752,3,59.51,10
+Northstar Commercial Ins Co,GA,0.6863,0.0868,5,22.09,10
+Northstar Commercial Ins Co,IL,0.593,0.1142,5,1.03,10
+Northstar Commercial Ins Co,NY,0.5575,0.2177,3,5.83,10
+Northstar Commercial Ins Co,TX,0.4592,0.0791,3,-10.63,10
+Pioneer Fleet Assurance,CA,0.6617,0.1148,2,13.92,10
+Pioneer Fleet Assurance,FL,0.634,0.1641,2,16.95,10
+Pioneer Fleet Assurance,GA,0.6725,0.1181,1,4.4,9
+Pioneer Fleet Assurance,IL,0.6287,0.039,3,5.18,7
+Pioneer Fleet Assurance,NY,0.6655,0.0415,3,20.74,9
+Pioneer Fleet Assurance,TX,0.647,0.1303,0,,9
+Summit Mutual Insurance Co,CA,0.7037,0.0981,0,,8
+Summit Mutual Insurance Co,FL,0.7087,0.0293,2,20.19,10
+Summit Mutual Insurance Co,GA,0.7156,0.1004,2,22.01,10
+Summit Mutual Insurance Co,IL,0.5984,0.1947,2,3.1,5
+Summit Mutual Insurance Co,NY,0.6244,0.1066,3,17.52,8
+Summit Mutual Insurance Co,TX,0.6461,0.1362,3,18.96,9

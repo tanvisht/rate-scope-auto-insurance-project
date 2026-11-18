@@ -24,5 +24,11 @@ def run(raw_dir=RAW_DIR, out_dir=PROCESSED_DIR, db_path=DB_PATH, verbose=True):
     export.export_tableau(conn, out_dir)
     export.export_excel(conn, out_dir / "RateScope_Benchmark.xlsx", quality)
     export.write_summary(conn, out_dir / "summary.md", quality)
+    try:
+        from ratescope import charts
+        charts.build_all(conn, out_dir.parent.parent / "docs" / "images" if out_dir.name == "processed" else out_dir)
+        log("[charts]    PNG charts written")
+    except ImportError:
+        log("[charts]    matplotlib not installed; skipping charts")
     log(f"[export]    Tableau CSVs, Excel workbook, summary.md -> {out_dir}")
     return conn, quality

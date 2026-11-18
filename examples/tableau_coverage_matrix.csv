@@ -1,0 +1,427 @@
+canonical_name,state,coverage_code,coverage_label,filings_mentioning,max_liability_limit
+Granite Transport Insurance,CA,GARAGE,Garagekeepers,2,2000000
+Granite Transport Insurance,CA,LIAB,Liability (BI/PD),4,2000000
+Granite Transport Insurance,CA,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Granite Transport Insurance,CA,PD_COLL,Physical Damage - Collision,1,500000
+Granite Transport Insurance,CA,PD_COMP,Physical Damage - Comprehensive,1,2000000
+Granite Transport Insurance,CA,RENTAL,Rental Reimbursement,2,2000000
+Granite Transport Insurance,CA,TOWING,Towing & Labor,3,2000000
+Granite Transport Insurance,CA,UM_UIM,Uninsured/Underinsured Motorist,1,2000000
+Granite Transport Insurance,FL,CARGO,Motor Truck Cargo,2,2000000
+Granite Transport Insurance,FL,GARAGE,Garagekeepers,1,500000
+Granite Transport Insurance,FL,HNOA,Hired & Non-Owned Auto,2,2000000
+Granite Transport Insurance,FL,LIAB,Liability (BI/PD),5,2000000
+Granite Transport Insurance,FL,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Granite Transport Insurance,FL,PD_COLL,Physical Damage - Collision,3,2000000
+Granite Transport Insurance,FL,RENTAL,Rental Reimbursement,1,2000000
+Granite Transport Insurance,FL,TOWING,Towing & Labor,2,2000000
+Granite Transport Insurance,FL,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Granite Transport Insurance,GA,CARGO,Motor Truck Cargo,2,2000000
+Granite Transport Insurance,GA,GARAGE,Garagekeepers,2,2000000
+Granite Transport Insurance,GA,HNOA,Hired & Non-Owned Auto,3,2000000
+Granite Transport Insurance,GA,LIAB,Liability (BI/PD),6,2000000
+Granite Transport Insurance,GA,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Granite Transport Insurance,GA,PD_COLL,Physical Damage - Collision,3,2000000
+Granite Transport Insurance,GA,PD_COMP,Physical Damage - Comprehensive,2,2000000
+Granite Transport Insurance,GA,RENTAL,Rental Reimbursement,2,2000000
+Granite Transport Insurance,GA,TOWING,Towing & Labor,5,2000000
+Granite Transport Insurance,GA,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Granite Transport Insurance,IL,CARGO,Motor Truck Cargo,1,500000
+Granite Transport Insurance,IL,GARAGE,Garagekeepers,2,2000000
+Granite Transport Insurance,IL,HNOA,Hired & Non-Owned Auto,1,2000000
+Granite Transport Insurance,IL,LIAB,Liability (BI/PD),5,2000000
+Granite Transport Insurance,IL,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Granite Transport Insurance,IL,PD_COLL,Physical Damage - Collision,1,2000000
+Granite Transport Insurance,IL,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Granite Transport Insurance,IL,RENTAL,Rental Reimbursement,2,2000000
+Granite Transport Insurance,IL,TOWING,Towing & Labor,1,500000
+Granite Transport Insurance,IL,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Granite Transport Insurance,NY,CARGO,Motor Truck Cargo,3,2000000
+Granite Transport Insurance,NY,GARAGE,Garagekeepers,3,2000000
+Granite Transport Insurance,NY,LIAB,Liability (BI/PD),5,2000000
+Granite Transport Insurance,NY,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Granite Transport Insurance,NY,PD_COLL,Physical Damage - Collision,2,2000000
+Granite Transport Insurance,NY,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Granite Transport Insurance,NY,RENTAL,Rental Reimbursement,1,500000
+Granite Transport Insurance,NY,TOWING,Towing & Labor,1,2000000
+Granite Transport Insurance,NY,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Granite Transport Insurance,TX,CARGO,Motor Truck Cargo,1,2000000
+Granite Transport Insurance,TX,GARAGE,Garagekeepers,1,2000000
+Granite Transport Insurance,TX,HNOA,Hired & Non-Owned Auto,2,2000000
+Granite Transport Insurance,TX,LIAB,Liability (BI/PD),5,2000000
+Granite Transport Insurance,TX,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Granite Transport Insurance,TX,PD_COMP,Physical Damage - Comprehensive,1,2000000
+Granite Transport Insurance,TX,RENTAL,Rental Reimbursement,1,1000000
+Granite Transport Insurance,TX,TOWING,Towing & Labor,4,2000000
+Granite Transport Insurance,TX,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Harbor State Indemnity,CA,CARGO,Motor Truck Cargo,1,2000000
+Harbor State Indemnity,CA,HNOA,Hired & Non-Owned Auto,1,2000000
+Harbor State Indemnity,CA,LIAB,Liability (BI/PD),4,2000000
+Harbor State Indemnity,CA,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Harbor State Indemnity,CA,PD_COLL,Physical Damage - Collision,2,2000000
+Harbor State Indemnity,CA,PD_COMP,Physical Damage - Comprehensive,2,2000000
+Harbor State Indemnity,CA,RENTAL,Rental Reimbursement,2,2000000
+Harbor State Indemnity,CA,TOWING,Towing & Labor,2,2000000
+Harbor State Indemnity,FL,CARGO,Motor Truck Cargo,2,2000000
+Harbor State Indemnity,FL,GARAGE,Garagekeepers,4,2000000
+Harbor State Indemnity,FL,HNOA,Hired & Non-Owned Auto,2,500000
+Harbor State Indemnity,FL,LIAB,Liability (BI/PD),6,2000000
+Harbor State Indemnity,FL,MEDPAY_PIP,Med Pay / PIP,5,2000000
+Harbor State Indemnity,FL,PD_COLL,Physical Damage - Collision,3,2000000
+Harbor State Indemnity,FL,PD_COMP,Physical Damage - Comprehensive,5,2000000
+Harbor State Indemnity,FL,RENTAL,Rental Reimbursement,3,2000000
+Harbor State Indemnity,GA,GARAGE,Garagekeepers,4,2000000
+Harbor State Indemnity,GA,HNOA,Hired & Non-Owned Auto,3,2000000
+Harbor State Indemnity,GA,LIAB,Liability (BI/PD),7,2000000
+Harbor State Indemnity,GA,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Harbor State Indemnity,GA,PD_COLL,Physical Damage - Collision,4,2000000
+Harbor State Indemnity,GA,PD_COMP,Physical Damage - Comprehensive,4,2000000
+Harbor State Indemnity,GA,RENTAL,Rental Reimbursement,2,2000000
+Harbor State Indemnity,GA,TOWING,Towing & Labor,2,1000000
+Harbor State Indemnity,GA,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Harbor State Indemnity,IL,CARGO,Motor Truck Cargo,1,2000000
+Harbor State Indemnity,IL,GARAGE,Garagekeepers,2,2000000
+Harbor State Indemnity,IL,HNOA,Hired & Non-Owned Auto,1,2000000
+Harbor State Indemnity,IL,LIAB,Liability (BI/PD),3,2000000
+Harbor State Indemnity,IL,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Harbor State Indemnity,IL,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Harbor State Indemnity,IL,UM_UIM,Uninsured/Underinsured Motorist,1,2000000
+Harbor State Indemnity,NY,CARGO,Motor Truck Cargo,2,500000
+Harbor State Indemnity,NY,GARAGE,Garagekeepers,1,500000
+Harbor State Indemnity,NY,HNOA,Hired & Non-Owned Auto,2,2000000
+Harbor State Indemnity,NY,LIAB,Liability (BI/PD),7,2000000
+Harbor State Indemnity,NY,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Harbor State Indemnity,NY,PD_COLL,Physical Damage - Collision,2,2000000
+Harbor State Indemnity,NY,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Harbor State Indemnity,NY,RENTAL,Rental Reimbursement,1,500000
+Harbor State Indemnity,NY,TOWING,Towing & Labor,4,2000000
+Harbor State Indemnity,NY,UM_UIM,Uninsured/Underinsured Motorist,2,500000
+Harbor State Indemnity,TX,CARGO,Motor Truck Cargo,1,2000000
+Harbor State Indemnity,TX,GARAGE,Garagekeepers,1,2000000
+Harbor State Indemnity,TX,HNOA,Hired & Non-Owned Auto,2,2000000
+Harbor State Indemnity,TX,LIAB,Liability (BI/PD),5,2000000
+Harbor State Indemnity,TX,MEDPAY_PIP,Med Pay / PIP,2,2000000
+Harbor State Indemnity,TX,PD_COLL,Physical Damage - Collision,2,2000000
+Harbor State Indemnity,TX,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Harbor State Indemnity,TX,TOWING,Towing & Labor,2,2000000
+Harbor State Indemnity,TX,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Keystone Commercial Casualty,CA,CARGO,Motor Truck Cargo,1,1000000
+Keystone Commercial Casualty,CA,GARAGE,Garagekeepers,3,2000000
+Keystone Commercial Casualty,CA,HNOA,Hired & Non-Owned Auto,3,1000000
+Keystone Commercial Casualty,CA,LIAB,Liability (BI/PD),7,2000000
+Keystone Commercial Casualty,CA,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Keystone Commercial Casualty,CA,PD_COLL,Physical Damage - Collision,2,2000000
+Keystone Commercial Casualty,CA,PD_COMP,Physical Damage - Comprehensive,2,2000000
+Keystone Commercial Casualty,CA,RENTAL,Rental Reimbursement,2,1000000
+Keystone Commercial Casualty,CA,TOWING,Towing & Labor,2,2000000
+Keystone Commercial Casualty,CA,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Keystone Commercial Casualty,FL,GARAGE,Garagekeepers,2,1000000
+Keystone Commercial Casualty,FL,HNOA,Hired & Non-Owned Auto,1,1000000
+Keystone Commercial Casualty,FL,LIAB,Liability (BI/PD),3,1000000
+Keystone Commercial Casualty,FL,MEDPAY_PIP,Med Pay / PIP,1,1000000
+Keystone Commercial Casualty,FL,PD_COLL,Physical Damage - Collision,1,1000000
+Keystone Commercial Casualty,FL,PD_COMP,Physical Damage - Comprehensive,1,1000000
+Keystone Commercial Casualty,FL,RENTAL,Rental Reimbursement,1,1000000
+Keystone Commercial Casualty,FL,TOWING,Towing & Labor,1,1000000
+Keystone Commercial Casualty,FL,UM_UIM,Uninsured/Underinsured Motorist,1,500000
+Keystone Commercial Casualty,GA,CARGO,Motor Truck Cargo,3,2000000
+Keystone Commercial Casualty,GA,HNOA,Hired & Non-Owned Auto,2,500000
+Keystone Commercial Casualty,GA,LIAB,Liability (BI/PD),5,2000000
+Keystone Commercial Casualty,GA,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Keystone Commercial Casualty,GA,PD_COLL,Physical Damage - Collision,2,2000000
+Keystone Commercial Casualty,GA,PD_COMP,Physical Damage - Comprehensive,3,1000000
+Keystone Commercial Casualty,GA,RENTAL,Rental Reimbursement,2,1000000
+Keystone Commercial Casualty,GA,TOWING,Towing & Labor,3,1000000
+Keystone Commercial Casualty,GA,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Keystone Commercial Casualty,IL,CARGO,Motor Truck Cargo,1,1000000
+Keystone Commercial Casualty,IL,GARAGE,Garagekeepers,1,2000000
+Keystone Commercial Casualty,IL,HNOA,Hired & Non-Owned Auto,1,2000000
+Keystone Commercial Casualty,IL,LIAB,Liability (BI/PD),4,2000000
+Keystone Commercial Casualty,IL,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Keystone Commercial Casualty,IL,PD_COLL,Physical Damage - Collision,2,2000000
+Keystone Commercial Casualty,IL,RENTAL,Rental Reimbursement,1,2000000
+Keystone Commercial Casualty,IL,TOWING,Towing & Labor,4,2000000
+Keystone Commercial Casualty,NY,CARGO,Motor Truck Cargo,2,1000000
+Keystone Commercial Casualty,NY,GARAGE,Garagekeepers,2,2000000
+Keystone Commercial Casualty,NY,HNOA,Hired & Non-Owned Auto,2,2000000
+Keystone Commercial Casualty,NY,LIAB,Liability (BI/PD),5,2000000
+Keystone Commercial Casualty,NY,MEDPAY_PIP,Med Pay / PIP,5,2000000
+Keystone Commercial Casualty,NY,PD_COLL,Physical Damage - Collision,1,2000000
+Keystone Commercial Casualty,NY,PD_COMP,Physical Damage - Comprehensive,2,2000000
+Keystone Commercial Casualty,NY,RENTAL,Rental Reimbursement,2,2000000
+Keystone Commercial Casualty,NY,TOWING,Towing & Labor,2,1000000
+Keystone Commercial Casualty,NY,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Keystone Commercial Casualty,TX,CARGO,Motor Truck Cargo,4,2000000
+Keystone Commercial Casualty,TX,GARAGE,Garagekeepers,4,2000000
+Keystone Commercial Casualty,TX,HNOA,Hired & Non-Owned Auto,3,2000000
+Keystone Commercial Casualty,TX,LIAB,Liability (BI/PD),7,2000000
+Keystone Commercial Casualty,TX,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Keystone Commercial Casualty,TX,PD_COLL,Physical Damage - Collision,4,2000000
+Keystone Commercial Casualty,TX,PD_COMP,Physical Damage - Comprehensive,2,2000000
+Keystone Commercial Casualty,TX,RENTAL,Rental Reimbursement,3,2000000
+Keystone Commercial Casualty,TX,TOWING,Towing & Labor,1,2000000
+Keystone Commercial Casualty,TX,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Liberty Ridge Casualty Co,CA,CARGO,Motor Truck Cargo,1,2000000
+Liberty Ridge Casualty Co,CA,GARAGE,Garagekeepers,4,2000000
+Liberty Ridge Casualty Co,CA,HNOA,Hired & Non-Owned Auto,4,2000000
+Liberty Ridge Casualty Co,CA,LIAB,Liability (BI/PD),5,2000000
+Liberty Ridge Casualty Co,CA,MEDPAY_PIP,Med Pay / PIP,1,500000
+Liberty Ridge Casualty Co,CA,PD_COLL,Physical Damage - Collision,3,2000000
+Liberty Ridge Casualty Co,CA,PD_COMP,Physical Damage - Comprehensive,5,2000000
+Liberty Ridge Casualty Co,CA,RENTAL,Rental Reimbursement,2,2000000
+Liberty Ridge Casualty Co,CA,TOWING,Towing & Labor,1,2000000
+Liberty Ridge Casualty Co,CA,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Liberty Ridge Casualty Co,FL,CARGO,Motor Truck Cargo,2,1000000
+Liberty Ridge Casualty Co,FL,GARAGE,Garagekeepers,2,2000000
+Liberty Ridge Casualty Co,FL,HNOA,Hired & Non-Owned Auto,4,2000000
+Liberty Ridge Casualty Co,FL,LIAB,Liability (BI/PD),7,2000000
+Liberty Ridge Casualty Co,FL,MEDPAY_PIP,Med Pay / PIP,7,2000000
+Liberty Ridge Casualty Co,FL,PD_COLL,Physical Damage - Collision,2,2000000
+Liberty Ridge Casualty Co,FL,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Liberty Ridge Casualty Co,FL,RENTAL,Rental Reimbursement,1,1000000
+Liberty Ridge Casualty Co,FL,TOWING,Towing & Labor,3,2000000
+Liberty Ridge Casualty Co,FL,UM_UIM,Uninsured/Underinsured Motorist,1,2000000
+Liberty Ridge Casualty Co,GA,CARGO,Motor Truck Cargo,3,2000000
+Liberty Ridge Casualty Co,GA,GARAGE,Garagekeepers,4,2000000
+Liberty Ridge Casualty Co,GA,HNOA,Hired & Non-Owned Auto,2,2000000
+Liberty Ridge Casualty Co,GA,LIAB,Liability (BI/PD),5,2000000
+Liberty Ridge Casualty Co,GA,MEDPAY_PIP,Med Pay / PIP,1,2000000
+Liberty Ridge Casualty Co,GA,PD_COLL,Physical Damage - Collision,2,2000000
+Liberty Ridge Casualty Co,GA,PD_COMP,Physical Damage - Comprehensive,1,2000000
+Liberty Ridge Casualty Co,GA,RENTAL,Rental Reimbursement,3,2000000
+Liberty Ridge Casualty Co,GA,TOWING,Towing & Labor,1,2000000
+Liberty Ridge Casualty Co,GA,UM_UIM,Uninsured/Underinsured Motorist,4,2000000
+Liberty Ridge Casualty Co,IL,GARAGE,Garagekeepers,2,2000000
+Liberty Ridge Casualty Co,IL,HNOA,Hired & Non-Owned Auto,5,2000000
+Liberty Ridge Casualty Co,IL,LIAB,Liability (BI/PD),5,2000000
+Liberty Ridge Casualty Co,IL,MEDPAY_PIP,Med Pay / PIP,5,2000000
+Liberty Ridge Casualty Co,IL,PD_COMP,Physical Damage - Comprehensive,2,2000000
+Liberty Ridge Casualty Co,IL,RENTAL,Rental Reimbursement,1,1000000
+Liberty Ridge Casualty Co,IL,TOWING,Towing & Labor,2,2000000
+Liberty Ridge Casualty Co,IL,UM_UIM,Uninsured/Underinsured Motorist,1,1000000
+Liberty Ridge Casualty Co,NY,CARGO,Motor Truck Cargo,4,2000000
+Liberty Ridge Casualty Co,NY,GARAGE,Garagekeepers,3,2000000
+Liberty Ridge Casualty Co,NY,HNOA,Hired & Non-Owned Auto,5,2000000
+Liberty Ridge Casualty Co,NY,LIAB,Liability (BI/PD),7,2000000
+Liberty Ridge Casualty Co,NY,MEDPAY_PIP,Med Pay / PIP,5,2000000
+Liberty Ridge Casualty Co,NY,PD_COLL,Physical Damage - Collision,3,2000000
+Liberty Ridge Casualty Co,NY,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Liberty Ridge Casualty Co,NY,RENTAL,Rental Reimbursement,3,2000000
+Liberty Ridge Casualty Co,NY,TOWING,Towing & Labor,2,2000000
+Liberty Ridge Casualty Co,NY,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Liberty Ridge Casualty Co,TX,CARGO,Motor Truck Cargo,3,1000000
+Liberty Ridge Casualty Co,TX,GARAGE,Garagekeepers,1,1000000
+Liberty Ridge Casualty Co,TX,HNOA,Hired & Non-Owned Auto,4,1000000
+Liberty Ridge Casualty Co,TX,LIAB,Liability (BI/PD),6,1000000
+Liberty Ridge Casualty Co,TX,MEDPAY_PIP,Med Pay / PIP,3,1000000
+Liberty Ridge Casualty Co,TX,PD_COLL,Physical Damage - Collision,2,500000
+Liberty Ridge Casualty Co,TX,PD_COMP,Physical Damage - Comprehensive,3,500000
+Liberty Ridge Casualty Co,TX,RENTAL,Rental Reimbursement,1,500000
+Liberty Ridge Casualty Co,TX,TOWING,Towing & Labor,4,1000000
+Liberty Ridge Casualty Co,TX,UM_UIM,Uninsured/Underinsured Motorist,2,1000000
+Meridian Auto Underwriters,CA,CARGO,Motor Truck Cargo,1,2000000
+Meridian Auto Underwriters,CA,GARAGE,Garagekeepers,2,2000000
+Meridian Auto Underwriters,CA,HNOA,Hired & Non-Owned Auto,2,2000000
+Meridian Auto Underwriters,CA,LIAB,Liability (BI/PD),3,2000000
+Meridian Auto Underwriters,CA,MEDPAY_PIP,Med Pay / PIP,1,1000000
+Meridian Auto Underwriters,CA,PD_COLL,Physical Damage - Collision,2,2000000
+Meridian Auto Underwriters,CA,PD_COMP,Physical Damage - Comprehensive,1,1000000
+Meridian Auto Underwriters,CA,RENTAL,Rental Reimbursement,2,2000000
+Meridian Auto Underwriters,CA,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Meridian Auto Underwriters,FL,CARGO,Motor Truck Cargo,2,1000000
+Meridian Auto Underwriters,FL,GARAGE,Garagekeepers,2,500000
+Meridian Auto Underwriters,FL,HNOA,Hired & Non-Owned Auto,3,1000000
+Meridian Auto Underwriters,FL,LIAB,Liability (BI/PD),6,2000000
+Meridian Auto Underwriters,FL,MEDPAY_PIP,Med Pay / PIP,5,2000000
+Meridian Auto Underwriters,FL,PD_COLL,Physical Damage - Collision,1,500000
+Meridian Auto Underwriters,FL,PD_COMP,Physical Damage - Comprehensive,4,1000000
+Meridian Auto Underwriters,FL,RENTAL,Rental Reimbursement,2,2000000
+Meridian Auto Underwriters,FL,TOWING,Towing & Labor,1,2000000
+Meridian Auto Underwriters,FL,UM_UIM,Uninsured/Underinsured Motorist,2,1000000
+Meridian Auto Underwriters,GA,CARGO,Motor Truck Cargo,2,2000000
+Meridian Auto Underwriters,GA,GARAGE,Garagekeepers,2,2000000
+Meridian Auto Underwriters,GA,HNOA,Hired & Non-Owned Auto,1,1000000
+Meridian Auto Underwriters,GA,LIAB,Liability (BI/PD),6,2000000
+Meridian Auto Underwriters,GA,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Meridian Auto Underwriters,GA,PD_COLL,Physical Damage - Collision,4,1000000
+Meridian Auto Underwriters,GA,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Meridian Auto Underwriters,GA,RENTAL,Rental Reimbursement,2,2000000
+Meridian Auto Underwriters,GA,TOWING,Towing & Labor,1,1000000
+Meridian Auto Underwriters,GA,UM_UIM,Uninsured/Underinsured Motorist,4,1000000
+Meridian Auto Underwriters,IL,CARGO,Motor Truck Cargo,1,500000
+Meridian Auto Underwriters,IL,GARAGE,Garagekeepers,1,1000000
+Meridian Auto Underwriters,IL,HNOA,Hired & Non-Owned Auto,4,2000000
+Meridian Auto Underwriters,IL,LIAB,Liability (BI/PD),5,2000000
+Meridian Auto Underwriters,IL,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Meridian Auto Underwriters,IL,PD_COLL,Physical Damage - Collision,2,2000000
+Meridian Auto Underwriters,IL,PD_COMP,Physical Damage - Comprehensive,2,1000000
+Meridian Auto Underwriters,IL,RENTAL,Rental Reimbursement,1,500000
+Meridian Auto Underwriters,IL,UM_UIM,Uninsured/Underinsured Motorist,3,1000000
+Meridian Auto Underwriters,NY,HNOA,Hired & Non-Owned Auto,1,500000
+Meridian Auto Underwriters,NY,LIAB,Liability (BI/PD),3,1000000
+Meridian Auto Underwriters,NY,MEDPAY_PIP,Med Pay / PIP,1,1000000
+Meridian Auto Underwriters,NY,PD_COMP,Physical Damage - Comprehensive,1,1000000
+Meridian Auto Underwriters,NY,RENTAL,Rental Reimbursement,1,1000000
+Meridian Auto Underwriters,NY,TOWING,Towing & Labor,1,500000
+Meridian Auto Underwriters,TX,CARGO,Motor Truck Cargo,1,2000000
+Meridian Auto Underwriters,TX,GARAGE,Garagekeepers,2,2000000
+Meridian Auto Underwriters,TX,HNOA,Hired & Non-Owned Auto,3,2000000
+Meridian Auto Underwriters,TX,LIAB,Liability (BI/PD),6,2000000
+Meridian Auto Underwriters,TX,MEDPAY_PIP,Med Pay / PIP,5,2000000
+Meridian Auto Underwriters,TX,PD_COLL,Physical Damage - Collision,3,2000000
+Meridian Auto Underwriters,TX,PD_COMP,Physical Damage - Comprehensive,2,2000000
+Meridian Auto Underwriters,TX,RENTAL,Rental Reimbursement,1,2000000
+Meridian Auto Underwriters,TX,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Northstar Commercial Ins Co,CA,CARGO,Motor Truck Cargo,1,500000
+Northstar Commercial Ins Co,CA,GARAGE,Garagekeepers,3,2000000
+Northstar Commercial Ins Co,CA,HNOA,Hired & Non-Owned Auto,1,500000
+Northstar Commercial Ins Co,CA,LIAB,Liability (BI/PD),6,2000000
+Northstar Commercial Ins Co,CA,MEDPAY_PIP,Med Pay / PIP,5,2000000
+Northstar Commercial Ins Co,CA,PD_COLL,Physical Damage - Collision,2,1000000
+Northstar Commercial Ins Co,CA,RENTAL,Rental Reimbursement,2,2000000
+Northstar Commercial Ins Co,CA,TOWING,Towing & Labor,2,2000000
+Northstar Commercial Ins Co,CA,UM_UIM,Uninsured/Underinsured Motorist,3,2000000
+Northstar Commercial Ins Co,FL,CARGO,Motor Truck Cargo,2,2000000
+Northstar Commercial Ins Co,FL,GARAGE,Garagekeepers,2,2000000
+Northstar Commercial Ins Co,FL,HNOA,Hired & Non-Owned Auto,6,2000000
+Northstar Commercial Ins Co,FL,LIAB,Liability (BI/PD),7,2000000
+Northstar Commercial Ins Co,FL,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Northstar Commercial Ins Co,FL,PD_COLL,Physical Damage - Collision,2,2000000
+Northstar Commercial Ins Co,FL,PD_COMP,Physical Damage - Comprehensive,5,2000000
+Northstar Commercial Ins Co,FL,RENTAL,Rental Reimbursement,2,2000000
+Northstar Commercial Ins Co,FL,TOWING,Towing & Labor,4,2000000
+Northstar Commercial Ins Co,FL,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Northstar Commercial Ins Co,GA,CARGO,Motor Truck Cargo,2,2000000
+Northstar Commercial Ins Co,GA,GARAGE,Garagekeepers,2,2000000
+Northstar Commercial Ins Co,GA,HNOA,Hired & Non-Owned Auto,1,2000000
+Northstar Commercial Ins Co,GA,LIAB,Liability (BI/PD),5,2000000
+Northstar Commercial Ins Co,GA,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Northstar Commercial Ins Co,GA,PD_COLL,Physical Damage - Collision,2,2000000
+Northstar Commercial Ins Co,GA,RENTAL,Rental Reimbursement,1,500000
+Northstar Commercial Ins Co,GA,TOWING,Towing & Labor,1,2000000
+Northstar Commercial Ins Co,GA,UM_UIM,Uninsured/Underinsured Motorist,1,2000000
+Northstar Commercial Ins Co,IL,CARGO,Motor Truck Cargo,1,2000000
+Northstar Commercial Ins Co,IL,GARAGE,Garagekeepers,3,2000000
+Northstar Commercial Ins Co,IL,HNOA,Hired & Non-Owned Auto,2,2000000
+Northstar Commercial Ins Co,IL,LIAB,Liability (BI/PD),5,2000000
+Northstar Commercial Ins Co,IL,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Northstar Commercial Ins Co,IL,PD_COLL,Physical Damage - Collision,1,500000
+Northstar Commercial Ins Co,IL,PD_COMP,Physical Damage - Comprehensive,1,2000000
+Northstar Commercial Ins Co,IL,RENTAL,Rental Reimbursement,2,500000
+Northstar Commercial Ins Co,IL,TOWING,Towing & Labor,2,2000000
+Northstar Commercial Ins Co,IL,UM_UIM,Uninsured/Underinsured Motorist,1,500000
+Northstar Commercial Ins Co,NY,CARGO,Motor Truck Cargo,2,2000000
+Northstar Commercial Ins Co,NY,GARAGE,Garagekeepers,2,2000000
+Northstar Commercial Ins Co,NY,LIAB,Liability (BI/PD),5,2000000
+Northstar Commercial Ins Co,NY,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Northstar Commercial Ins Co,NY,PD_COLL,Physical Damage - Collision,2,2000000
+Northstar Commercial Ins Co,NY,PD_COMP,Physical Damage - Comprehensive,1,2000000
+Northstar Commercial Ins Co,NY,RENTAL,Rental Reimbursement,1,2000000
+Northstar Commercial Ins Co,NY,TOWING,Towing & Labor,2,2000000
+Northstar Commercial Ins Co,NY,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Northstar Commercial Ins Co,TX,CARGO,Motor Truck Cargo,3,1000000
+Northstar Commercial Ins Co,TX,GARAGE,Garagekeepers,3,2000000
+Northstar Commercial Ins Co,TX,HNOA,Hired & Non-Owned Auto,1,1000000
+Northstar Commercial Ins Co,TX,LIAB,Liability (BI/PD),6,2000000
+Northstar Commercial Ins Co,TX,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Northstar Commercial Ins Co,TX,PD_COLL,Physical Damage - Collision,2,2000000
+Northstar Commercial Ins Co,TX,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Northstar Commercial Ins Co,TX,RENTAL,Rental Reimbursement,4,2000000
+Northstar Commercial Ins Co,TX,UM_UIM,Uninsured/Underinsured Motorist,1,1000000
+Pioneer Fleet Assurance,CA,CARGO,Motor Truck Cargo,1,2000000
+Pioneer Fleet Assurance,CA,GARAGE,Garagekeepers,2,2000000
+Pioneer Fleet Assurance,CA,HNOA,Hired & Non-Owned Auto,2,2000000
+Pioneer Fleet Assurance,CA,LIAB,Liability (BI/PD),5,2000000
+Pioneer Fleet Assurance,CA,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Pioneer Fleet Assurance,CA,PD_COLL,Physical Damage - Collision,2,2000000
+Pioneer Fleet Assurance,CA,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Pioneer Fleet Assurance,CA,RENTAL,Rental Reimbursement,2,2000000
+Pioneer Fleet Assurance,CA,TOWING,Towing & Labor,1,2000000
+Pioneer Fleet Assurance,CA,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Pioneer Fleet Assurance,FL,CARGO,Motor Truck Cargo,1,500000
+Pioneer Fleet Assurance,FL,GARAGE,Garagekeepers,3,1000000
+Pioneer Fleet Assurance,FL,HNOA,Hired & Non-Owned Auto,1,1000000
+Pioneer Fleet Assurance,FL,LIAB,Liability (BI/PD),4,1000000
+Pioneer Fleet Assurance,FL,MEDPAY_PIP,Med Pay / PIP,3,1000000
+Pioneer Fleet Assurance,FL,RENTAL,Rental Reimbursement,1,500000
+Pioneer Fleet Assurance,FL,TOWING,Towing & Labor,1,500000
+Pioneer Fleet Assurance,FL,UM_UIM,Uninsured/Underinsured Motorist,2,1000000
+Pioneer Fleet Assurance,GA,CARGO,Motor Truck Cargo,4,2000000
+Pioneer Fleet Assurance,GA,GARAGE,Garagekeepers,3,2000000
+Pioneer Fleet Assurance,GA,HNOA,Hired & Non-Owned Auto,3,2000000
+Pioneer Fleet Assurance,GA,LIAB,Liability (BI/PD),5,2000000
+Pioneer Fleet Assurance,GA,MEDPAY_PIP,Med Pay / PIP,2,2000000
+Pioneer Fleet Assurance,GA,PD_COLL,Physical Damage - Collision,2,2000000
+Pioneer Fleet Assurance,GA,PD_COMP,Physical Damage - Comprehensive,2,1000000
+Pioneer Fleet Assurance,GA,TOWING,Towing & Labor,2,2000000
+Pioneer Fleet Assurance,GA,UM_UIM,Uninsured/Underinsured Motorist,1,2000000
+Pioneer Fleet Assurance,IL,CARGO,Motor Truck Cargo,2,1000000
+Pioneer Fleet Assurance,IL,GARAGE,Garagekeepers,1,1000000
+Pioneer Fleet Assurance,IL,LIAB,Liability (BI/PD),3,1000000
+Pioneer Fleet Assurance,IL,MEDPAY_PIP,Med Pay / PIP,2,1000000
+Pioneer Fleet Assurance,IL,PD_COLL,Physical Damage - Collision,1,1000000
+Pioneer Fleet Assurance,IL,RENTAL,Rental Reimbursement,1,1000000
+Pioneer Fleet Assurance,IL,TOWING,Towing & Labor,1,1000000
+Pioneer Fleet Assurance,NY,CARGO,Motor Truck Cargo,4,2000000
+Pioneer Fleet Assurance,NY,GARAGE,Garagekeepers,3,2000000
+Pioneer Fleet Assurance,NY,HNOA,Hired & Non-Owned Auto,1,2000000
+Pioneer Fleet Assurance,NY,LIAB,Liability (BI/PD),7,2000000
+Pioneer Fleet Assurance,NY,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Pioneer Fleet Assurance,NY,PD_COLL,Physical Damage - Collision,2,2000000
+Pioneer Fleet Assurance,NY,PD_COMP,Physical Damage - Comprehensive,2,2000000
+Pioneer Fleet Assurance,NY,RENTAL,Rental Reimbursement,1,1000000
+Pioneer Fleet Assurance,NY,UM_UIM,Uninsured/Underinsured Motorist,2,2000000
+Pioneer Fleet Assurance,TX,CARGO,Motor Truck Cargo,2,2000000
+Pioneer Fleet Assurance,TX,GARAGE,Garagekeepers,1,2000000
+Pioneer Fleet Assurance,TX,LIAB,Liability (BI/PD),2,2000000
+Pioneer Fleet Assurance,TX,MEDPAY_PIP,Med Pay / PIP,2,2000000
+Pioneer Fleet Assurance,TX,PD_COLL,Physical Damage - Collision,1,2000000
+Pioneer Fleet Assurance,TX,PD_COMP,Physical Damage - Comprehensive,1,2000000
+Pioneer Fleet Assurance,TX,RENTAL,Rental Reimbursement,1,2000000
+Pioneer Fleet Assurance,TX,UM_UIM,Uninsured/Underinsured Motorist,1,2000000
+Summit Mutual Insurance Co,CA,CARGO,Motor Truck Cargo,1,2000000
+Summit Mutual Insurance Co,CA,GARAGE,Garagekeepers,2,2000000
+Summit Mutual Insurance Co,CA,HNOA,Hired & Non-Owned Auto,1,2000000
+Summit Mutual Insurance Co,CA,LIAB,Liability (BI/PD),2,2000000
+Summit Mutual Insurance Co,CA,MEDPAY_PIP,Med Pay / PIP,1,2000000
+Summit Mutual Insurance Co,CA,PD_COMP,Physical Damage - Comprehensive,1,1000000
+Summit Mutual Insurance Co,CA,TOWING,Towing & Labor,1,1000000
+Summit Mutual Insurance Co,CA,UM_UIM,Uninsured/Underinsured Motorist,1,2000000
+Summit Mutual Insurance Co,FL,CARGO,Motor Truck Cargo,1,500000
+Summit Mutual Insurance Co,FL,GARAGE,Garagekeepers,3,2000000
+Summit Mutual Insurance Co,FL,HNOA,Hired & Non-Owned Auto,1,500000
+Summit Mutual Insurance Co,FL,LIAB,Liability (BI/PD),6,2000000
+Summit Mutual Insurance Co,FL,MEDPAY_PIP,Med Pay / PIP,3,2000000
+Summit Mutual Insurance Co,FL,PD_COLL,Physical Damage - Collision,1,500000
+Summit Mutual Insurance Co,FL,PD_COMP,Physical Damage - Comprehensive,4,2000000
+Summit Mutual Insurance Co,FL,RENTAL,Rental Reimbursement,2,2000000
+Summit Mutual Insurance Co,FL,TOWING,Towing & Labor,2,2000000
+Summit Mutual Insurance Co,FL,UM_UIM,Uninsured/Underinsured Motorist,1,2000000
+Summit Mutual Insurance Co,GA,CARGO,Motor Truck Cargo,3,1000000
+Summit Mutual Insurance Co,GA,GARAGE,Garagekeepers,1,1000000
+Summit Mutual Insurance Co,GA,HNOA,Hired & Non-Owned Auto,2,1000000
+Summit Mutual Insurance Co,GA,LIAB,Liability (BI/PD),5,2000000
+Summit Mutual Insurance Co,GA,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Summit Mutual Insurance Co,GA,PD_COLL,Physical Damage - Collision,1,1000000
+Summit Mutual Insurance Co,GA,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Summit Mutual Insurance Co,GA,RENTAL,Rental Reimbursement,2,2000000
+Summit Mutual Insurance Co,GA,TOWING,Towing & Labor,1,1000000
+Summit Mutual Insurance Co,IL,LIAB,Liability (BI/PD),2,2000000
+Summit Mutual Insurance Co,IL,MEDPAY_PIP,Med Pay / PIP,2,2000000
+Summit Mutual Insurance Co,IL,PD_COMP,Physical Damage - Comprehensive,1,2000000
+Summit Mutual Insurance Co,IL,RENTAL,Rental Reimbursement,1,2000000
+Summit Mutual Insurance Co,IL,UM_UIM,Uninsured/Underinsured Motorist,1,2000000
+Summit Mutual Insurance Co,NY,CARGO,Motor Truck Cargo,1,1000000
+Summit Mutual Insurance Co,NY,HNOA,Hired & Non-Owned Auto,2,2000000
+Summit Mutual Insurance Co,NY,LIAB,Liability (BI/PD),3,2000000
+Summit Mutual Insurance Co,NY,PD_COLL,Physical Damage - Collision,1,2000000
+Summit Mutual Insurance Co,NY,TOWING,Towing & Labor,1,1000000
+Summit Mutual Insurance Co,TX,GARAGE,Garagekeepers,2,2000000
+Summit Mutual Insurance Co,TX,HNOA,Hired & Non-Owned Auto,3,2000000
+Summit Mutual Insurance Co,TX,LIAB,Liability (BI/PD),6,2000000
+Summit Mutual Insurance Co,TX,MEDPAY_PIP,Med Pay / PIP,4,2000000
+Summit Mutual Insurance Co,TX,PD_COLL,Physical Damage - Collision,3,2000000
+Summit Mutual Insurance Co,TX,PD_COMP,Physical Damage - Comprehensive,3,2000000
+Summit Mutual Insurance Co,TX,RENTAL,Rental Reimbursement,2,2000000
+Summit Mutual Insurance Co,TX,TOWING,Towing & Labor,2,2000000
+Summit Mutual Insurance Co,TX,UM_UIM,Uninsured/Underinsured Motorist,2,2000000

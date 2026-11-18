@@ -1,0 +1,193 @@
+canonical_name,state,experience_year,rate_year,prior_year_loss_ratio,prior_lr_vs_market,rate_change_pct,rate_filings
+Summit Mutual Insurance Co,CA,2021,,0.7271,0.1114,0.0,0
+Keystone Commercial Casualty,CA,2021,,0.6031,-0.0126,0.0,0
+Pioneer Fleet Assurance,CA,2021,,0.6041,-0.0116,0.0,0
+Harbor State Indemnity,CA,2021,,0.802,0.1863,0.0,0
+Granite Transport Insurance,CA,2021,,0.6104,-0.0053,0.0,0
+Liberty Ridge Casualty Co,CA,2021,,0.565,-0.0507,0.0,0
+Meridian Auto Underwriters,CA,2021,2022.0,0.4834,-0.1323,-5.53,2
+Northstar Commercial Ins Co,CA,2021,,0.5967,-0.019,0.0,0
+Summit Mutual Insurance Co,CA,2022,,0.6769,0.0428,0.0,0
+Keystone Commercial Casualty,CA,2022,2023.0,0.7246,0.0904,9.1,1
+Pioneer Fleet Assurance,CA,2022,2023.0,0.6557,0.0215,4.9,1
+Harbor State Indemnity,CA,2022,,0.8216,0.1874,0.0,0
+Granite Transport Insurance,CA,2022,2023.0,0.5897,-0.0445,11.16,2
+Liberty Ridge Casualty Co,CA,2022,,0.5866,-0.0476,0.0,0
+Meridian Auto Underwriters,CA,2022,,0.5011,-0.1331,0.0,0
+Northstar Commercial Ins Co,CA,2022,2023.0,0.6326,-0.0016,3.7,1
+Summit Mutual Insurance Co,CA,2023,,0.7359,0.0544,0.0,0
+Keystone Commercial Casualty,CA,2023,2024.0,0.7588,0.0773,7.5,1
+Pioneer Fleet Assurance,CA,2023,,0.7462,0.0647,0.0,0
+Harbor State Indemnity,CA,2023,,0.8581,0.1766,0.0,0
+Granite Transport Insurance,CA,2023,2024.0,0.6465,-0.035,4.3,1
+Liberty Ridge Casualty Co,CA,2023,,0.7605,0.079,0.0,0
+Meridian Auto Underwriters,CA,2023,,0.4107,-0.2708,0.0,0
+Northstar Commercial Ins Co,CA,2023,2024.0,0.6471,-0.0344,11.3,1
+Summit Mutual Insurance Co,CA,2024,,0.708,0.0153,0.0,0
+Keystone Commercial Casualty,CA,2024,2025.0,0.7511,0.0584,9.6,1
+Pioneer Fleet Assurance,CA,2024,,0.7004,0.0078,0.0,0
+Harbor State Indemnity,CA,2024,,0.8588,0.1662,0.0,0
+Granite Transport Insurance,CA,2024,,0.7241,0.0314,0.0,0
+Liberty Ridge Casualty Co,CA,2024,2025.0,0.751,0.0584,5.7,1
+Meridian Auto Underwriters,CA,2024,,0.4779,-0.2147,0.0,0
+Northstar Commercial Ins Co,CA,2024,2025.0,0.655,-0.0376,10.3,2
+Summit Mutual Insurance Co,FL,2021,,0.6839,0.0502,0.0,0
+Keystone Commercial Casualty,FL,2021,,0.5821,-0.0516,0.0,0
+Pioneer Fleet Assurance,FL,2021,,0.5958,-0.0379,0.0,0
+Harbor State Indemnity,FL,2021,2022.0,0.5839,-0.0498,-0.1,1
+Granite Transport Insurance,FL,2021,,0.6586,0.0249,0.0,0
+Liberty Ridge Casualty Co,FL,2021,2022.0,0.6124,-0.0213,12.54,2
+Meridian Auto Underwriters,FL,2021,,0.7346,0.1009,0.0,0
+Northstar Commercial Ins Co,FL,2021,2022.0,0.792,0.1583,27.4,2
+Summit Mutual Insurance Co,FL,2022,2023.0,0.6852,0.0398,7.6,1
+Keystone Commercial Casualty,FL,2022,,0.6059,-0.0395,0.0,0
+Pioneer Fleet Assurance,FL,2022,,0.6005,-0.0448,0.0,0
+Harbor State Indemnity,FL,2022,,0.6112,-0.0341,0.0,0
+Granite Transport Insurance,FL,2022,2023.0,0.6688,0.0234,8.3,1
+Liberty Ridge Casualty Co,FL,2022,,0.6514,0.006,0.0,0
+Meridian Auto Underwriters,FL,2022,,0.6699,0.0246,0.0,0
+Northstar Commercial Ins Co,FL,2022,,0.8104,0.165,0.0,0
+Summit Mutual Insurance Co,FL,2023,2024.0,0.7357,0.0717,11.7,1
+Keystone Commercial Casualty,FL,2023,2024.0,0.6254,-0.0386,1.5,1
+Pioneer Fleet Assurance,FL,2023,2024.0,0.681,0.017,9.3,1
+Harbor State Indemnity,FL,2023,2024.0,0.5758,-0.0882,-2.9,1
+Granite Transport Insurance,FL,2023,2024.0,0.7568,0.0928,12.7,1
+Liberty Ridge Casualty Co,FL,2023,2024.0,0.6551,-0.0089,14.29,2
+Meridian Auto Underwriters,FL,2023,,0.6556,-0.0084,0.0,0
+Northstar Commercial Ins Co,FL,2023,,0.8405,0.1765,0.0,0
+Summit Mutual Insurance Co,FL,2024,,0.7047,0.026,0.0,0
+Keystone Commercial Casualty,FL,2024,2025.0,0.626,-0.0527,-3.1,1
+Pioneer Fleet Assurance,FL,2024,2025.0,0.6334,-0.0453,7.0,1
+Harbor State Indemnity,FL,2024,2025.0,0.6056,-0.0731,2.1,1
+Granite Transport Insurance,FL,2024,2025.0,0.7625,0.0837,15.5,1
+Liberty Ridge Casualty Co,FL,2024,2025.0,0.6899,0.0112,5.2,1
+Meridian Auto Underwriters,FL,2024,2025.0,0.6737,-0.0051,16.73,2
+Northstar Commercial Ins Co,FL,2024,2025.0,0.9424,0.2637,25.2,1
+Summit Mutual Insurance Co,GA,2021,,0.7162,0.0701,0.0,0
+Keystone Commercial Casualty,GA,2021,,0.6123,-0.0338,0.0,0
+Pioneer Fleet Assurance,GA,2021,,0.7535,0.1074,0.0,0
+Harbor State Indemnity,GA,2021,,0.5708,-0.0753,0.0,0
+Granite Transport Insurance,GA,2021,2022.0,0.5872,-0.0588,2.7,1
+Liberty Ridge Casualty Co,GA,2021,,0.6027,-0.0433,0.0,0
+Meridian Auto Underwriters,GA,2021,2022.0,0.7001,0.054,8.6,1
+Northstar Commercial Ins Co,GA,2021,2022.0,0.6143,-0.0317,4.9,1
+Summit Mutual Insurance Co,GA,2022,2023.0,0.6992,0.0406,22.01,2
+Keystone Commercial Casualty,GA,2022,2023.0,0.6087,-0.0499,-2.3,1
+Pioneer Fleet Assurance,GA,2022,,0.7262,0.0676,0.0,0
+Harbor State Indemnity,GA,2022,,0.5715,-0.0871,0.0,0
+Granite Transport Insurance,GA,2022,2023.0,0.54,-0.1186,-2.4,2
+Liberty Ridge Casualty Co,GA,2022,,0.6917,0.0331,0.0,0
+Meridian Auto Underwriters,GA,2022,2023.0,0.7632,0.1046,12.9,1
+Northstar Commercial Ins Co,GA,2022,2023.0,0.5894,-0.0692,-0.1,1
+Summit Mutual Insurance Co,GA,2023,,0.7298,0.0475,0.0,0
+Keystone Commercial Casualty,GA,2023,2024.0,0.6401,-0.0423,3.2,1
+Pioneer Fleet Assurance,GA,2023,2024.0,0.6617,-0.0206,4.4,1
+Harbor State Indemnity,GA,2023,2024.0,0.5117,-0.1706,-7.07,2
+Granite Transport Insurance,GA,2023,,0.5706,-0.1118,0.0,0
+Liberty Ridge Casualty Co,GA,2023,2024.0,0.745,0.0627,10.9,1
+Meridian Auto Underwriters,GA,2023,,0.7783,0.0959,0.0,0
+Northstar Commercial Ins Co,GA,2023,2024.0,0.7199,0.0376,6.0,1
+Summit Mutual Insurance Co,GA,2024,,0.7042,0.041,0.0,0
+Keystone Commercial Casualty,GA,2024,2025.0,0.652,-0.0112,6.2,1
+Pioneer Fleet Assurance,GA,2024,,0.6208,-0.0423,0.0,0
+Harbor State Indemnity,GA,2024,,0.5196,-0.1435,0.0,0
+Granite Transport Insurance,GA,2024,,0.4797,-0.1835,0.0,0
+Liberty Ridge Casualty Co,GA,2024,,0.7665,0.1034,0.0,0
+Meridian Auto Underwriters,GA,2024,2025.0,0.744,0.0808,11.6,1
+Northstar Commercial Ins Co,GA,2024,2025.0,0.7223,0.0591,8.5,1
+Summit Mutual Insurance Co,IL,2021,,0.5687,-0.0541,0.0,0
+Keystone Commercial Casualty,IL,2021,,0.7139,0.0911,0.0,0
+Pioneer Fleet Assurance,IL,2021,2022.0,0.5963,-0.0265,1.4,1
+Harbor State Indemnity,IL,2021,,0.6801,0.0573,0.0,0
+Granite Transport Insurance,IL,2021,2022.0,0.6459,0.023,6.3,1
+Liberty Ridge Casualty Co,IL,2021,,0.6553,0.0325,0.0,0
+Meridian Auto Underwriters,IL,2021,,0.6067,-0.0161,0.0,0
+Northstar Commercial Ins Co,IL,2021,,0.5129,-0.1099,0.0,0
+Summit Mutual Insurance Co,IL,2022,,0.6054,-0.0298,0.0,0
+Keystone Commercial Casualty,IL,2022,2023.0,0.6929,0.0576,4.0,1
+Pioneer Fleet Assurance,IL,2022,,0.5846,-0.0507,0.0,0
+Harbor State Indemnity,IL,2022,,0.6108,-0.0245,0.0,0
+Granite Transport Insurance,IL,2022,,0.7056,0.0703,0.0,0
+Liberty Ridge Casualty Co,IL,2022,,0.6685,0.0332,0.0,0
+Meridian Auto Underwriters,IL,2022,,0.6125,-0.0228,0.0,0
+Northstar Commercial Ins Co,IL,2022,2023.0,0.5896,-0.0457,3.8,1
+Summit Mutual Insurance Co,IL,2023,2024.0,0.5907,-0.0557,3.2,1
+Keystone Commercial Casualty,IL,2023,,0.7271,0.0807,0.0,0
+Pioneer Fleet Assurance,IL,2023,,0.616,-0.0304,0.0,0
+Harbor State Indemnity,IL,2023,,0.6615,0.0151,0.0,0
+Granite Transport Insurance,IL,2023,2024.0,0.6665,0.02,6.4,1
+Liberty Ridge Casualty Co,IL,2023,2024.0,0.6852,0.0388,10.8,1
+Meridian Auto Underwriters,IL,2023,,0.716,0.0696,0.0,0
+Northstar Commercial Ins Co,IL,2023,2024.0,0.5708,-0.0756,5.44,2
+Summit Mutual Insurance Co,IL,2024,,0.6093,-0.0526,0.0,0
+Keystone Commercial Casualty,IL,2024,,0.7661,0.1042,0.0,0
+Pioneer Fleet Assurance,IL,2024,2025.0,0.6971,0.0351,8.5,1
+Harbor State Indemnity,IL,2024,2025.0,0.6781,0.0162,4.7,1
+Granite Transport Insurance,IL,2024,,0.701,0.0391,0.0,0
+Liberty Ridge Casualty Co,IL,2024,,0.6503,-0.0117,0.0,0
+Meridian Auto Underwriters,IL,2024,2025.0,0.7179,0.056,15.88,2
+Northstar Commercial Ins Co,IL,2024,2025.0,0.6046,-0.0573,-1.8,1
+Summit Mutual Insurance Co,NY,2021,2022.0,0.6293,-0.052,6.3,1
+Keystone Commercial Casualty,NY,2021,,0.7412,0.0599,0.0,0
+Pioneer Fleet Assurance,NY,2021,2022.0,0.6753,-0.006,9.66,2
+Harbor State Indemnity,NY,2021,,0.5928,-0.0885,0.0,0
+Granite Transport Insurance,NY,2021,2022.0,0.6875,0.0062,5.0,1
+Liberty Ridge Casualty Co,NY,2021,2022.0,0.7394,0.0582,15.7,1
+Meridian Auto Underwriters,NY,2021,,0.7134,0.0321,0.0,0
+Northstar Commercial Ins Co,NY,2021,2022.0,0.6312,-0.0501,7.0,1
+Summit Mutual Insurance Co,NY,2022,2023.0,0.6208,-0.0607,4.1,1
+Keystone Commercial Casualty,NY,2022,2023.0,0.8124,0.1309,20.0,1
+Pioneer Fleet Assurance,NY,2022,2023.0,0.6706,-0.011,10.1,1
+Harbor State Indemnity,NY,2022,2023.0,0.535,-0.1465,3.8,1
+Granite Transport Insurance,NY,2022,,0.7031,0.0215,0.0,0
+Liberty Ridge Casualty Co,NY,2022,,0.7769,0.0953,0.0,0
+Meridian Auto Underwriters,NY,2022,,0.7849,0.1033,0.0,0
+Northstar Commercial Ins Co,NY,2022,,0.5376,-0.1439,0.0,0
+Summit Mutual Insurance Co,NY,2023,2024.0,0.6309,-0.0257,6.2,1
+Keystone Commercial Casualty,NY,2023,2024.0,0.763,0.1064,16.7,1
+Pioneer Fleet Assurance,NY,2023,,0.5689,-0.0877,0.0,0
+Harbor State Indemnity,NY,2023,2024.0,0.4295,-0.227,-12.2,1
+Granite Transport Insurance,NY,2023,,0.75,0.0935,0.0,0
+Liberty Ridge Casualty Co,NY,2023,2024.0,0.7343,0.0777,10.94,2
+Meridian Auto Underwriters,NY,2023,2024.0,0.8349,0.1783,20.9,1
+Northstar Commercial Ins Co,NY,2023,2024.0,0.4863,-0.1703,-3.6,1
+Summit Mutual Insurance Co,NY,2024,,0.5798,-0.1129,0.0,0
+Keystone Commercial Casualty,NY,2024,,0.7596,0.0669,0.0,0
+Pioneer Fleet Assurance,NY,2024,,0.6516,-0.0411,0.0,0
+Harbor State Indemnity,NY,2024,2025.0,0.4563,-0.2364,-6.2,1
+Granite Transport Insurance,NY,2024,,0.7969,0.1042,0.0,0
+Liberty Ridge Casualty Co,NY,2024,2025.0,0.7638,0.0711,10.1,1
+Meridian Auto Underwriters,NY,2024,2025.0,0.8102,0.1175,17.2,1
+Northstar Commercial Ins Co,NY,2024,,0.6015,-0.0912,0.0,0
+Summit Mutual Insurance Co,TX,2021,,0.5899,0.005,0.0,0
+Keystone Commercial Casualty,TX,2021,,0.5848,-0.0001,0.0,0
+Pioneer Fleet Assurance,TX,2021,,0.6291,0.0442,0.0,0
+Harbor State Indemnity,TX,2021,2022.0,0.4,-0.1848,-21.86,2
+Granite Transport Insurance,TX,2021,,0.6416,0.0567,0.0,0
+Liberty Ridge Casualty Co,TX,2021,2022.0,0.6357,0.0509,4.8,1
+Meridian Auto Underwriters,TX,2021,2022.0,0.6418,0.057,3.9,1
+Northstar Commercial Ins Co,TX,2021,,0.5483,-0.0366,0.0,0
+Summit Mutual Insurance Co,TX,2022,2023.0,0.6315,0.0518,4.7,1
+Keystone Commercial Casualty,TX,2022,,0.5806,0.0009,0.0,0
+Pioneer Fleet Assurance,TX,2022,,0.6155,0.0358,0.0,0
+Harbor State Indemnity,TX,2022,2023.0,0.536,-0.0437,2.7,1
+Granite Transport Insurance,TX,2022,2023.0,0.5405,-0.0392,-1.0,1
+Liberty Ridge Casualty Co,TX,2022,,0.6215,0.0417,0.0,0
+Meridian Auto Underwriters,TX,2022,2023.0,0.6299,0.0502,13.4,1
+Northstar Commercial Ins Co,TX,2022,2023.0,0.4944,-0.0853,-2.4,1
+Summit Mutual Insurance Co,TX,2023,,0.6262,0.0428,0.0,0
+Keystone Commercial Casualty,TX,2023,2024.0,0.5759,-0.0075,-8.91,2
+Pioneer Fleet Assurance,TX,2023,,0.644,0.0607,0.0,0
+Harbor State Indemnity,TX,2023,,0.5906,0.0072,0.0,0
+Granite Transport Insurance,TX,2023,,0.5433,-0.04,0.0,0
+Liberty Ridge Casualty Co,TX,2023,2024.0,0.6358,0.0525,9.49,2
+Meridian Auto Underwriters,TX,2023,,0.6347,0.0514,0.0,0
+Northstar Commercial Ins Co,TX,2023,,0.4,-0.1833,0.0,0
+Summit Mutual Insurance Co,TX,2024,2025.0,0.6737,0.0665,10.1,1
+Keystone Commercial Casualty,TX,2024,2025.0,0.5954,-0.0118,4.5,1
+Pioneer Fleet Assurance,TX,2024,,0.6517,0.0445,0.0,0
+Harbor State Indemnity,TX,2024,,0.6724,0.0651,0.0,0
+Granite Transport Insurance,TX,2024,,0.5128,-0.0945,0.0,0
+Liberty Ridge Casualty Co,TX,2024,,0.6982,0.091,0.0,0
+Meridian Auto Underwriters,TX,2024,2025.0,0.6572,0.05,11.1,1
+Northstar Commercial Ins Co,TX,2024,2025.0,0.4412,-0.166,-10.4,1

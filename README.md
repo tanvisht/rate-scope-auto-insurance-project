@@ -50,17 +50,20 @@ RateScope/
 │   ├── normalize.py       # company entity resolution, coverage mapping
 │   ├── warehouse.py       # SQLite load + runs SQL views
 │   ├── benchmark.py       # coverage / rate / loss ratio benchmarking logic
+│   ├── charts.py          # PNG previews of dashboards
 │   ├── export.py          # Tableau CSV extracts + Excel workbook
 │   ├── pipeline.py        # end-to-end orchestration
 │   └── cli.py             # `python -m ratescope run`
 ├── sql/
 │   ├── schema.sql         # star schema: dim_company, dim_state, fact_filing, fact_experience
-│   └── views.sql          # benchmarking views consumed by Tableau
+│   ├── views.sql          # benchmarking views consumed by Tableau
+│   └── analysis_queries.sql # example analyst questions
 ├── dashboards/
 │   └── TABLEAU_GUIDE.md   # dashboard spec: sheets, calcs, filters
 ├── docs/
 │   ├── user_research.md   # interview synthesis (15 professionals)
 │   └── data_dictionary.md
+├── examples/            # committed sample outputs (xlsx, csv, summary)
 ├── data/raw/              # input files (sample data generated here)
 ├── data/processed/        # Tableau extracts + Excel output
 └── tests/
@@ -112,6 +115,14 @@ SERFF Filing Access and NAIC statement data are public, but they are served thro
 
 - Parser extracted rate change and effective date from **100%** of the sample's rate filings. **43** filings that had no NAIC code were resolved by fuzzy name matching.
 - **Rate adequacy signal:** in the sample, prior-year loss ratio correlates with next-year filed rate change at **r = 0.85**. Each +10 pts of loss ratio goes with about **+7 pts** of filed rate.
+
+### Charts (static previews of the Tableau dashboards)
+
+![Rate vs loss](docs/images/chart_rate_vs_loss.png)
+![State overview](docs/images/chart_state_overview.png)
+![Coverage matrix](docs/images/chart_coverage_TX.png)
+
+Pre-generated outputs are in [`examples/`](examples/): the Excel workbook, the Tableau CSV extracts and [`summary.md`](examples/summary.md). Example analyst SQL is in [`sql/analysis_queries.sql`](sql/analysis_queries.sql).
 
 ## Tests
 
